@@ -355,6 +355,10 @@ a{
    
     background-image: url(./th.jpg);
   }
+  #project5{
+   
+    background-image: url(./th\ \(1\).jpg);
+  }
 
 
   @media (max-width:1300px) {
